@@ -17,3 +17,7 @@ Live chat app written on c# with SIgnalR for real time. Feel free to use for you
 ##### http://localhost:5122 (MAY BE DIFFERENT) #####
 
 4. Abra Cadabra!
+
+
+# Overall structure of the project should look like this:
+![изображение](https://github.com/user-attachments/assets/e739961a-45f5-4807-9f78-63d9a7ec7178)
