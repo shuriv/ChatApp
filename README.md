@@ -1,6 +1,9 @@
 # ChatApp
 Live chat app written on c# with SignalR for real time. Feel free to use for your needs.
 
+![изображение](https://github.com/user-attachments/assets/b5291ddd-a2a3-4711-89a8-98061aa54c7f)
+
+
 # How to deploy.
 1. Create a project with .NET CLI. 
 
